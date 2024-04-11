@@ -1,2 +1,8 @@
-# Practica_MMD
-Es un repositorio de prueba para metodología de datos.
+> [!IMPORTANT]
+> Clase Repaso GIT MDD
+
+# Clase Repaso
+
+### Nombre Alumno
+
+Benjamin Manriquez R.
